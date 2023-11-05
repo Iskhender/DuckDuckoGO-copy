@@ -1,0 +1,40 @@
+:root {
+    --background: #1c5fba;
+}
+
+.windows-class {
+    background-color: var(--background);
+    color: #fff;
+    border-radius: 4px;
+    padding: 10px;
+    border-color: transparent;
+}
+
+.chrome-class {
+    background-color: var(--background);
+    color: #fff;
+    border-radius: 4px;
+    padding: 10px;
+    border-color: transparent;
+}
+
+.header-section {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+
+.private-class{
+    display: inline;
+}
+.tracker-class{
+    display: inline;
+}
+.site-class{
+    display: inline;
+}
+.textbasliq{
+    margin: 0 auto;
+}
+
